@@ -11,7 +11,6 @@ I'm working on Aoyama's update so this project will stop for a while
 '''
 import requests
 import socket
-import socks
 import time
 import random
 import threading
